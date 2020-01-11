@@ -154,3 +154,4 @@ _repo/
 ## IDEs
 .vscode
 .idea
+content/.DS_Store
