@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2066 668" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="0" y="0" width="2066" height="668" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,-132.051,-86.6341)">
+        <text x="1028.19px" y="523.495px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:288px;fill:rgb(254,0,0);">+</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1.26632,9.27102)">
+        <text x="57.699px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">Curso tradicional en</text>
+        <text x="424.555px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">C</text>
+        <text x="453.842px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">omputación Cuántica</text>
+    </g>
+    <g transform="matrix(1,0,0,1,2.87382,412.583)">
+        <text x="57.699px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">Aprendiend</text>
+        <text x="262.309px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">o</text>
+        <text x="297.268px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">C</text>
+        <text x="326.555px" y="56.394px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:40px;">omputación Cuántica utilizando Qiskit</text>
+    </g>
+    <g transform="matrix(1,0,0,1,40.0998,5.96824)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="fill:rgb(46,86,151);stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="175.504px" y="56.414px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Algebra Lineal</text>
+            <text x="133.287px" y="97.722px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Cuántica Mecánica</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,652.786,5.96824)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="fill:rgb(46,86,151);stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="114.41px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Algoritmos Cuántico</text>
+            <text x="472.339px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">s</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1265.47,5.96824)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="fill:rgb(46,86,151);stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="131.983px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Hardware</text>
+            <text x="316.895px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Cuántico</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1245.64,406.012)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="86.807px" y="60.784px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Algoritmos Cuántico</text>
+            <text x="444.737px" y="60.784px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">s</text>
+            <text x="475.45px" y="60.784px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">en</text>
+            <text x="157.75px" y="102.092px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Hardware actual</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,632.954,406.012)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="94.58px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Programació</text>
+            <text x="321.338px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">n</text>
+            <text x="354.298px" y="81.438px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Cuántica</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,20.2674,406.012)">
+        <g transform="matrix(1,0,0,1,0,2.63909)">
+            <path d="M119.053,159.275L56.445,97.278L606.669,97.278L669.068,159.678L606.649,222.097L56.382,222.097L119.053,159.275Z" style="stroke:black;stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,65.7392,94.9283)">
+            <text x="241.109px" y="60.784px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">Python</text>
+            <text x="237.808px" y="102.092px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:40px;fill:white;">QISKIT</text>
+        </g>
+    </g>
+</svg>

@@ -9,7 +9,7 @@
 ¡Saludos del equipo de la comunidad de Qiskit! Iniciamos este libro de texto de código abierto en colaboración con [IBM Research](https://www.research.ibm.com) como un suplemento a cursos universitarios de algoritmos/computación cuántica basado en el framework [Qiskit](qiskit.org).
 
 <img
-  src="images/qiskit_textbook_skills.png"
+  src="images/qiskit_textbook_skills.es.svg"
   alt="Este libro de texto contiene los fundamentos de Python y Qiskit la programación cuántica y los algoritmos cuánticos en el hardware actual, como suplemento a cursos tradicionales de computación cuántica."
   width="800px"
 />
