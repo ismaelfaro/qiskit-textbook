@@ -6,7 +6,7 @@
   style="width: 300px; margin-left: -35px"
 />
 
-Greetings from the Qiskit Community team! We initiated this open-source textbook in collaboration with IBM Research as a university quantum algorithms/computation course supplement based on Qiskit.
+Greetings from the Qiskit Community team! We initiated this open-source textbook in collaboration with [IBM Research](https://www.research.ibm.com/) as a university quantum algorithms/computation course supplement based on [Qiskit](https://qiskit.org) framework.
 
 <img
   src="images/qiskit_textbook_skills.png"
